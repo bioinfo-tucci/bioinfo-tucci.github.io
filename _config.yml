@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Tucci Bioinformatics
+title: Albert Tucci
 
 # Your name to show in the footer
 author: Albert Tucci
@@ -21,9 +21,9 @@ author: Albert Tucci
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    # Resources:
+    #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+    #   - Learn markdown: "https://www.markdowntutorial.com/"
       #Author's home: "https://deanattali.com"
 
 ################
