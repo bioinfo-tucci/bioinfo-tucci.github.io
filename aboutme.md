@@ -15,4 +15,3 @@ Prior to arriving at NC State in 2020, I completed an M.S. in biology at East Ca
 Before my time at ECU, I completed a B.S. in quantitative biology at the University of North Carolina at Chapel Hill.
 
 
-<To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.>
