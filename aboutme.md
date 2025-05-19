@@ -4,6 +4,8 @@ title: About me
 #subtitle: 
 ---
 
+![myadvisors](/assets/img/PIs.jpeg){: .mx-auto.d-block :}
+
 Hello! My name is Albert Tucci, I am a bioinformatician based out of Raleigh, North Carolina with a wide variety of research interests. Just this Spring, I graduated from North Carolina State University with a Ph. D. in bioinformatics after 5 years of under the tutelage of Drs. Robert Franks and Jung-Ying Tzeng.
 
 My work in the Franks lab focused on performing statistical analyses and leveraging machine learning models using a variety of next generation sequencing data to gain insights into hybrid seed development in monkeyflowers. Meanwhile, my work in the Tzeng lab centered around comparing methods for performing copy number variation (CNV) association analyses using data from the Alzheimer’s Disease Sequencing Project (ADSP).
@@ -13,4 +15,4 @@ Prior to arriving at NC State in 2020, I completed an M.S. in biology at East Ca
 Before my time at ECU, I completed a B.S. in quantitative biology at the University of North Carolina at Chapel Hill.
 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.>
