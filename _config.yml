@@ -271,6 +271,10 @@ kramdown:
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
+collections:
+  - announcements
+
+
 defaults:
   -
     scope:
@@ -284,7 +288,6 @@ defaults:
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "page"
 
 # Exclude these files from production site
 exclude:
